@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/habit_tracks/static/css/main.cec73942.css",
+    "main.js": "/habit_tracks/static/js/main.8b56adf8.js",
+    "static/media/background.jpg": "/habit_tracks/static/media/background.a636915548b6c1e7e4e0.jpg",
+    "static/media/sunshine.jpg": "/habit_tracks/static/media/sunshine.f3c13fa6cdbcd8912581.jpg",
+    "index.html": "/habit_tracks/index.html",
+    "main.cec73942.css.map": "/habit_tracks/static/css/main.cec73942.css.map",
+    "main.8b56adf8.js.map": "/habit_tracks/static/js/main.8b56adf8.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.cec73942.css",
+    "static/js/main.8b56adf8.js"
+  ]
+}
